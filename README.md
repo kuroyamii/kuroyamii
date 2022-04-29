@@ -1,6 +1,6 @@
 # Hi everyone 👋
 <div align="left">
-<a href="https://app.daily.dev/kuroyamii"><img src="https://api.daily.dev/devcards/d1463bb40511473b8bfa3e14fa9d4a2c.png?r=aib" width="400" align="left" alt="Gede Gery Sastrawan's Dev Card"/></a>
+<a href="https://app.daily.dev/kuroyamii"><img src="https://api.daily.dev/devcards/d1463bb40511473b8bfa3e14fa9d4a2c.png?r=8o1" align="left" width="400" alt="Gede Gery Sastrawan's Dev Card"/></a>
   <p>My name is Gery Sastrawan. You can call me Gery!</p>
   <p>I'm a Computer Science student currently studying at Udayana University</p>
   <p>I have an interest in Front-End and Back-End web engineering</p>
